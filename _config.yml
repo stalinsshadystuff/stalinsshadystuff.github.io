@@ -1,0 +1,15 @@
+# Site settings
+title:        "Stalin's Shady Stuff"
+description:  "My projects"
+baseurl:      "" # the subpath of your site, e.g. /blog/
+url:          "https://stalinsshadystuff.github.io" # the base hostname & protocol for your site
+permalink:    /:year/:title
+github:       "stalinsshadystuff"
+twitter:      ""
+email:        "josefstalin1219@gmail.com"
+disqus-id:    "" #leave blank if you dont want comments.
+
+# Build settings
+markdown:     kramdown
+sass:
+    style: :compressed
